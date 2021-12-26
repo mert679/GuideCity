@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    
+}
+.wrapper .sidebar{
+    background: darkgray;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0px;
+    height: 100%;
+    padding: 20px 0;
+    overflow-y: scroll;
+    z-index: 1;
+    
+}
+.wrapper .sidebar ul li a{
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 9px 15px;
+
+    color: black;
+    font-size: 16px;
+    position: relative;
+    text-decoration: none;
+}
+
+.wrapper .sidebar ul li a .material-icons{
+    color: #dee4ec;
+    width: 30px;
+    display: inline-block;
+}
+
+
+li>a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wrapper .sidebar ul li a .item{
+    font-size: 12px;
+    width: 50px;
+    display: inline-block;
+}
+
+.img-fluid{
+
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.image-container{
+    border: 1px solid black;
+    width: 100%;
+   
+}
+.nav{
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(70, 67, 67);
+    
+}
+.nav>li{
+    padding: 5px;
+    margin-left: 60px;
+    
+}
+.nav>li>a{
+    text-decoration: none;
+    color: rgb(43, 41, 41);
+    
+}
+
+/*additional part*/
+.head-side{
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    flex: direction;
+}
+#nav-toggler{
+        
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 0px;
+    font-size: 24px;
+    margin-left: 8px;
+    padding: 10px;
+    background: white;
+    cursor: pointer;
+}
+.toggle-header{
+    margin-bottom: 50px;
+}
+/*toggle adjustment*/
+
+.close{
+    margin-left: 70px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+
+  /*responsive*/
+@media only screen and (max-width: 600px) {
+    .sidebar {
+      
+      width: 80px;
+    }
+    #wrapper{
+     
+     margin-left:0px;
+    }
+    #nav-toggler{
+      display: absolute;
+      top: 0;
+      left: 0;
+      margin-left:0px;
+      
+    }
+    .nav-pills{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        
+    }
+    
+  }

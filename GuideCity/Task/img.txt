@@ -1,0 +1,7 @@
+multan= https://www.parhlo.com/wp-content/uploads/2019/04/BeFunky-Collage-mu.jpg.webp
+kasur= https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/03/30/807516-baba-bulleh-shah-darbar-khalid-mahmood.jpg
+Haydarabat = https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2021/03/Cover-1440x625-8.jpg
+
+lahor = https://gezimanya.com/sites/default/files/styles/800x600_/public/lokasyon-detay/2019-11/image-Think-Pakistan-Lahore-WazirKhanMosque-539346285-gaborbasch-copy.jpg
+islamabat = https://www.aa.com.tr/uploads/userFiles/7fc6ad83-e801-4dd2-b1c1-974abd5a6af0/2019%2FSubat%2Fpakistan-4-.jpg
+karaçi = https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKara%25C3%25A7i&psig=AOvVaw26IEPMb-oG6leeIhpCGjfN&ust=1635434537036000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjE_Mny6vMCFQAAAAAdAAAAABAD
